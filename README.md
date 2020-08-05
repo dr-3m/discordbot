@@ -13,6 +13,10 @@ python3 -m pip install -U discord.py
 # Windows
 py -3 -m pip install -U discord.py
 ```
+You can download this Repository / Bot by doing
+`
+git clone https://github.com/dr-3m/discordbot/
+` in a command line.
 
 ## Setting Up
 
