@@ -17,7 +17,7 @@ py -3 -m pip install -U discord.py
 ```
 You can download this Repository / Bot by doing
 `
-git clone https://github.com/dr-3m/discordbot/
+git clone https://github.com/dr-3m/simplebot/
 ` in a command line.
 
 ## Setting Up
