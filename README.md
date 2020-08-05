@@ -1,4 +1,6 @@
 # discordbot
+This bot is for free use, especially useful for those just starting out in discord.py - this uses embeds + simple features.
+
 * [How To Download](#how-to-download)
 * [Setting Up](#setting-up)
 * [Running The Bot](#running-the-bot)
