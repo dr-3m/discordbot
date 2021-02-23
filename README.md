@@ -1,7 +1,7 @@
 # simplebot
 basic template for people first using discord.py
 
-[![python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/) [![python](https://img.shields.io/badge/discord.py-latest-blue.svg)](https://github.com/Rapptz/discord.py)
+[![python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/) [![python](https://img.shields.io/badge/discord.py-latest-ff69b4.svg)](https://github.com/Rapptz/discord.py)
 
 * [How To Download](#how-to-download)
 * [Setting Up](#setting-up)
@@ -10,7 +10,7 @@ basic template for people first using discord.py
 ## How to download
 Make sure you have [discord.py](https://github.com/Rapptz/discord.py) and [Python](https://www.python.org/) installed.
 
-```
+```sh
 # Linux/macOS
 python3 -m pip install -U discord.py
 
