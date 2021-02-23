@@ -1,5 +1,7 @@
 # simplebot
-This bot is for free use, especially useful for those just starting out in discord.py - this uses embeds + simple features.
+basic template for people first using discord.py
+
+[![python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/) [![python](https://img.shields.io/badge/discord.py-latest-blue.svg)](https://github.com/Rapptz/discord.py)
 
 * [How To Download](#how-to-download)
 * [Setting Up](#setting-up)
