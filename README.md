@@ -17,7 +17,7 @@ python3 -m pip install -U discord.py
 # Windows
 py -3 -m pip install -U discord.py
 ```
-You can download this Repository / Bot by doing
+You can clone this Repository / Bot by doing
 `
 git clone https://github.com/dromzeh/simplebot/
 ` in a command line.
